@@ -261,6 +261,14 @@ https://martincorona007.github.io/Startup-Tequila-Trip/
 Github Repo  
 https://github.com/martincorona007/Startup-Tequila-Trip  
 
+----
+mansgotsites
+Check out my submission for Coding Challenge 8
+Github Pages
+https://mansgotsites.github.io/Landingpage/
+
+
+
 
 
 ## What is the Challenge?
